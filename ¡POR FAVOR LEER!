@@ -11,11 +11,13 @@ Sin embargo, esta información no solo queda en este informe, puesto que mediant
 Se realizaron varias pruebas sobre el rendimiento y características de la interfaz, hallando ciertos aspectos positivos y negativos, los cuales nos dejan ver que la interfaz tiene un diseño entendible y didáctico, proporcionando una usabilidad sencilla con colores atractivos y acordes al tema de la interfaz entre otros aspectos que son mencionados en el documento Pruebas y observaciones. Sin embargo, existen varios puntos negativos igualmente, los cuales son la falta de traducción y variedad de lenguaje en la interfaz, la carencia de animaciones, etc. Pero hay que mencionar una vez más que algunas carencias de la interfaz existen porque el aplicativo aún es un prototipo, es importante recalcarlo.
 
 
-
+En el repositorio igualmente se puede observar el wireframe y un pequeño mockup del programa
 
 
 Anotaciones
 Se recomienda utilizar el IDE NetBeans, y ejecutar la clase del prototipo para poder observar algunas imágenes e iconos, que por ciertos problemas no pudieron ser cargados (Se desconoce la razón de este problema), sin embargo, el JAR puede ser ejecutado sin ningún problema pero es importante tener en cuenta estas anotaciones.
 ¡Gracias por su atención y su comprensión!
 
+Cualquier duda o sugerencia sera aceptada con gusto.
 
+<Es un prototipo>
