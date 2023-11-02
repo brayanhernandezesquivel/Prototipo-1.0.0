@@ -1,0 +1,21 @@
+¡Buenos días, tardes y noches!
+En el repositorio se encuentra el primer prototipo de la interfaz (Red social), de la autoría del estudiante de ingeniería de sistemas Oscar Carey Gonzalez, actualmente cursando el segundo semestre de la carrera.
+•	Características de la interfaz
+Se nos muestra en la interfaz de la app, varios botones con utilidades especificas tales como “iniciar sesión”, “¿Olvidaste tu contraseña?”, “Registrarme”, “Recordar mis datos”, etc. Estos botones se observan de manera clara e intuitiva, su funcionalidad puede ser observada mediante una etiqueta que emerge, si posamos el cursor encima de dicho botón. Algunas otras características que contiene la interfaz son la gama de colores que alberga, los cuales son agradables y no saturan la pantalla, tampoco la vista del usuario, al igual, teniendo un logo y ciertas imágenes alusivas al nicho del programa.
+
+•	Funcionalidades y limitaciones 
+Las funcionalidades del programa, por el momento no tienen mucha incidencia ya que la interfaz aún es un prototipo, y esto limita las interacciones del usuario, pero con mucho trabajo en un futuro no tan distante, la app podrá cumplir con los requisitos requeridos.
+Sin embargo, esta información no solo queda en este informe, puesto que mediante la interacción del usuario presionando todos los botones, se le mostrara un mensaje mencionando que la acción aún no está disponible, dejándole saber la razón de que no pueda avanzar más allá en nuestro aplicativo.
+
+•	Información sobre pruebas realizadas a la interfaz
+Se realizaron varias pruebas sobre el rendimiento y características de la interfaz, hallando ciertos aspectos positivos y negativos, los cuales nos dejan ver que la interfaz tiene un diseño entendible y didáctico, proporcionando una usabilidad sencilla con colores atractivos y acordes al tema de la interfaz entre otros aspectos que son mencionados en el documento Pruebas y observaciones. Sin embargo, existen varios puntos negativos igualmente, los cuales son la falta de traducción y variedad de lenguaje en la interfaz, la carencia de animaciones, etc. Pero hay que mencionar una vez más que algunas carencias de la interfaz existen porque el aplicativo aún es un prototipo, es importante recalcarlo.
+
+
+
+
+
+Anotaciones
+Se recomienda utilizar el IDE NetBeans, y ejecutar la clase del prototipo para poder observar algunas imágenes e iconos, que por ciertos problemas no pudieron ser cargados (Se desconoce la razón de este problema), sin embargo, el JAR puede ser ejecutado sin ningún problema pero es importante tener en cuenta estas anotaciones.
+¡Gracias por su atención y su comprensión!
+
+
