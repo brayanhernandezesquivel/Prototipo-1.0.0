@@ -10,6 +10,15 @@ Sin embargo, esta información no solo queda en este informe, puesto que mediant
 •	Información sobre pruebas realizadas a la interfaz
 Se realizaron varias pruebas sobre el rendimiento y características de la interfaz, hallando ciertos aspectos positivos y negativos, los cuales nos dejan ver que la interfaz tiene un diseño entendible y didáctico, proporcionando una usabilidad sencilla con colores atractivos y acordes al tema de la interfaz entre otros aspectos que son mencionados en el documento Pruebas y observaciones. Sin embargo, existen varios puntos negativos igualmente, los cuales son la falta de traducción y variedad de lenguaje en la interfaz, la carencia de animaciones, etc. Pero hay que mencionar una vez más que algunas carencias de la interfaz existen porque el aplicativo aún es un prototipo, es importante recalcarlo.
 
+•	Librerias utilizadas 
+
+1.	import java.awt.Color;
+2.	import java.awt.Image;
+3.	import javax.swing.ImageIcon;
+4.	import javax.swing.JLabel;
+5.	import javax.swing.JOptionPane;
+
+
 
 En el repositorio igualmente se puede observar el wireframe y un pequeño mockup del programa
 
